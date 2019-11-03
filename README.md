@@ -14,13 +14,11 @@
 
 Ansible role for install [Kafka][kafka] using package manager or pip.
 
-Speedtest-cli outputs will be placed on dedicated directory as json files.
-
 ---
 
 ### Requirements:
 
-* Outbound network connectivity
+* None
 
 ### Dependencies:
 
