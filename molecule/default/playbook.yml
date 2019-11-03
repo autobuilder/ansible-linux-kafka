@@ -6,4 +6,4 @@
   no_log: false
 
   roles:
-    - role: ansible-isp-speedtest
+    - role: ansible-linux-kafka

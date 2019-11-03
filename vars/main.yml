@@ -1,4 +1,1 @@
 ---
-
-u: "https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py"
-speedtest_download_url: "{{ u }}"
