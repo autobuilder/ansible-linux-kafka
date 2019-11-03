@@ -3,7 +3,7 @@
 # ansible-linux-kafka
 
 <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Pool.png?hsLang=en-us" width="10%" height="10%" alt="Ansible logo" align="right"/>
-<img src="https://kafka.apache.org/images/logo.png" width="27%" height="27%" alt="Kafka logo" align="right"/>
+<img src="https://kafka.apache.org/images/logo.png" width="28%" height="28%" alt="Kafka logo" align="right"/>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat)](https://opensource.org/licenses/Apache-2.0)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/autobuilder/ansible-linux-kafka/issues)
