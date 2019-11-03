@@ -1,0 +1,19 @@
+---
+
+# defaults file for ansible-isp-speedtest
+
+output_type: "--json"
+# output_type: "--csv"
+
+use_get_url: true
+
+clean_leftovers: true
+
+date: "{{ ansible_date_time.date }}"
+time: "{{ ansible_date_time.time }}"
+log_name: "speedtest-{{ date }}-{{ time }}.log"
+log_path: "/tmp"
+log_file: "{{ log_path }}/{{ log_name }}"
+speedtest_file: "speedtest-cli"
+speedtest_path: "/tmp"
+speedtest_command: "{{ speedtest_path }}/{{ speedtest_file }}"
