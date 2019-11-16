@@ -17,5 +17,5 @@ galaxy_info:
       versions:
         - bionic
         - xenial
-  galaxy_tags: ["kafka"]
+  galaxy_tags: ["kafka", "zookeeper"]
 dependencies: []
